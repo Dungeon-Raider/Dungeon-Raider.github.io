@@ -1,2 +1,3 @@
 # Dungeon Raider
-[Click here for Repo](https://github.com/Dungeon-Raider/Dungeon-Raider.github.io)
+[Repo](https://github.com/Dungeon-Raider/Dungeon-Raider.github.io)
+[Level Editor](/Dungeon Raider Level-Editor(4).html)
